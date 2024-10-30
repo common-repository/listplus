@@ -1,0 +1,190 @@
+$base-duration: 0.25s;
+
+// Colors
+$primary: slategray;
+$accent: tomato;
+$white: whitesmoke;
+$green: #2ecc71;
+$red: #e74c3c;
+
+// Breakpoints
+$sm: 20rem;
+$med: 48rem;
+$lg: 64rem;
+
+body.lm-b-opening {
+    overflow: hidden !important;
+}
+
+.lm-drop {
+    position: absolute;
+    background: transparent;
+    top: 0;
+    left: 0;
+    bottom: 0px;
+    right: 0px;
+    display: block;
+}
+.l-modal {
+    position: fixed;
+    display: block;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+    align-items: center;
+    justify-content: center;
+    height: 0vh;
+    background-color: transparent;
+    overflow: hidden;
+    transition: background-color $base-duration ease;
+    z-index: 99999999;
+
+    &.open,
+    &.active {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        overflow-x: hidden;
+        overflow-y: auto;
+        background-color: rgba(0, 0, 0, 0.5);
+        transition: background-color $base-duration;
+
+        > .lm-wrapper {
+            transform: scale(1);
+        }
+    }
+
+    &.lm-m {
+        .lm-wrapper {
+            max-width: 500px;
+        }
+    }
+
+    .lm-wrapper {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 100%;
+        z-index: 100;
+        max-width: 768px;
+        margin: 4em auto;
+        @include for-mobile() {
+            margin: 0 auto;
+            height: 100%;
+        }
+
+        @include for-mobile-up() {
+            border-radius: 5px;
+            box-shadow: 0 0 2.5rem rgba(0, 0, 0, 0.5);
+        }
+        background-color: white;
+        transition-delay: 0.15s;
+        .lm-close {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            justify-content: center;
+            width: 2rem;
+            height: 2rem;
+            border: none;
+            background-color: transparent;
+            font-size: 1.5rem;
+            transition: $base-duration linear;
+            z-index: 15;
+            &:before,
+            &:after {
+                position: absolute;
+                content: "";
+                width: 1.25rem;
+                height: 0.125rem;
+                background-color: black;
+            }
+
+            &:before {
+                transform: rotate(-45deg);
+            }
+
+            &:after {
+                transform: rotate(45deg);
+            }
+
+            &:hover {
+                &:before,
+                &:after {
+                    background-color: $accent;
+                }
+            }
+        }
+
+        .lm-header {
+            position: relative;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            margin: 0;
+            padding: 1em 1em 1.25rem;
+            border-bottom: 1px solid #e9ecef;
+            h2 {
+                font-size: 18px;
+                font-weight: bold;
+                margin-bottom: 0px;
+            }
+        }
+
+        .lm-content {
+            position: relative;
+            display: block;
+            padding: 1rem;
+            z-index: 5;
+            p {
+                font-size: 0.875rem;
+                line-height: 1.75;
+            }
+        }
+
+        .lm-footer {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            width: 100%;
+            margin: 0;
+            padding: 1rem;
+            border-top: 1px solid #e9ecef;
+            .action {
+                margin-left: 0.625rem;
+            }
+        }
+    }
+}
+
+body.l-modal-open {
+    overflow: hidden;
+}
+
+.l-modal {
+    .l-form-title {
+        font-size: 18px;
+        line-height: 1.3;
+        font-weight: bold;
+        margin-block-end: 1.5em;
+        margin-bottom: 0;
+    }
+    .button {
+        margin-bottom: 0px;
+        padding: 0.5em 1em;
+        line-height: 1.3;
+        font-size: 1em;
+        font-weight: bold;
+    }
+    .lp-form {
+        input {
+            margin-bottom: 0px;
+        }
+    }
+}

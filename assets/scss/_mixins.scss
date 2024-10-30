@@ -1,0 +1,31 @@
+@mixin clearAfter {
+    &::after {
+        content: ""; display: block; clear: both;
+    }
+}
+
+
+@mixin for-desktop {
+    @media (min-width: 768) {
+        @content;
+    }
+}
+
+@mixin for-tablet {
+    @media (max-width: 768) {
+        @content;
+    }
+}
+
+@mixin for-mobile-up {
+    @media (min-width: 512px) {
+        @content;
+    }
+}
+
+
+@mixin for-mobile {
+    @media (max-width: 512px) {
+        @content;
+    }
+}

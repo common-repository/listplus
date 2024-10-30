@@ -1,0 +1,2838 @@
+# Copyright (C) 2020 ListPlus
+# This file is distributed under the same license as the ListPlus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ListPlus 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/listplus\n"
+"POT-Creation-Date: 2020-04-03 14:53:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/class-form.php:1609
+msgid "1"
+msgstr ""
+
+#: inc/class-form.php:1610
+msgid "2"
+msgstr ""
+
+#: inc/class-form.php:1611
+msgid "3"
+msgstr ""
+
+#: 3rd/wc/class-product-listing-package.php:30
+msgid "Buy now"
+msgstr ""
+
+#: 3rd/wc/class-product-listing-package.php:30
+#: inc/class-listing-display.php:298
+msgid "Read more"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:58
+msgid "Listing limit"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:61
+msgid "Unlimited"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:67
+msgid "Listing duration"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:70
+msgid "Liftime"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:73
+msgid "The number of days that the listing will active"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:79
+msgid "Mark as verified?"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:82
+msgid "Auto mark verified when new listing submitted"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:88
+msgid "Feature listings?"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:92
+msgid "Feature this listing item - it will be styled differently and sticky."
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:99
+msgid "Use for claim?"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:104
+msgid "Allow this package to be an option for claiming a listing."
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:111
+msgid "Approved?"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:116
+msgid "Auto set listing status to publish when listing submitted by custommer."
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:129
+msgid "Listing types"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:139
+msgid "Select listing types to limit, leave empty to allow all listing types."
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:146
+msgid "Disable claim?"
+msgstr ""
+
+#: 3rd/wc/class-wc-admin.php:150
+msgid "Disable claim for any listings submit using this package."
+msgstr ""
+
+#: 3rd/wc/wc-load.php:78
+msgid "Listing Package"
+msgstr ""
+
+#: 3rd/wc/wc-load.php:300
+msgid "Please select a listing package."
+msgstr ""
+
+#: 3rd/wc/wc-load.php:307 3rd/wc/wc-load.php:322
+msgid "Invalid listing package."
+msgstr ""
+
+#: 3rd/wc/wc-load.php:313
+msgid "Invalid listing type."
+msgstr ""
+
+#: admin/class-menu.php:27 admin/class-menu.php:55 admin/class-menu.php:162
+#: admin/class-menu.php:163 admin/views/view-list.php:19
+#: inc/class-post-types.php:361
+msgid "New Listing"
+msgstr ""
+
+#: admin/class-menu.php:52 inc/class-post-types.php:362
+msgid "Edit Listing"
+msgstr ""
+
+#: admin/class-menu.php:61
+msgid "Edit Listing Type"
+msgstr ""
+
+#: admin/class-menu.php:64 admin/views/view-edit-type.php:22
+#: admin/views/view-types.php:16
+msgid "New Listing Type"
+msgstr ""
+
+#: admin/class-menu.php:171 admin/class-menu.php:172
+#: admin/inc/class-listing_type-table.php:20 admin/views/view-types.php:14
+msgid "Listing Types"
+msgstr ""
+
+#: admin/class-menu.php:180 admin/class-menu.php:181
+#: admin/inc/class-enquires-list-table.php:21 admin/views/view-enquiries.php:14
+msgid "Enquiries"
+msgstr ""
+
+#: admin/class-menu.php:189 admin/class-menu.php:190
+msgid "Claim Entries"
+msgstr ""
+
+#: admin/class-menu.php:198 admin/class-menu.php:199
+#: admin/inc/class-reviews-list-table.php:21 admin/views/view-reviews.php:14
+#: inc/class-dashboard__premium_only.php:206
+#: inc/class-dashboard__premium_only.php:313 inc/class-settings.php:556
+#: inc/listing-display-fields.php:192
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-menu.php:207 admin/class-menu.php:208
+#: admin/inc/class-reports-list-table.php:21 admin/views/view-reports.php:14
+msgid "Reports"
+msgstr ""
+
+#: admin/class-menu.php:216 admin/class-menu.php:217
+msgid "Settings"
+msgstr ""
+
+#: admin/class-menu.php:226 admin/class-menu.php:227
+#: admin/views/view-tools.php:2
+msgid "Tools"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:20
+#: inc/class-listing-display.php:641 inc/class-settings.php:689
+msgid "Claim"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:21
+#: inc/class-dashboard__premium_only.php:312
+msgid "Claims"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:55
+#: admin/inc/class-enquires-list-table.php:55
+#: admin/inc/class-reports-list-table.php:55
+#: admin/inc/class-reviews-list-table.php:60
+msgid "%s ago"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:73
+#: admin/inc/class-reviews-list-table.php:78
+#: admin/inc/class-reviews-list-table.php:292
+#: admin/views/view-claim-details.php:50 admin/views/view-claim-details.php:92
+#: inc/class-settings.php:583
+msgid "Approved"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:75
+#: admin/inc/class-reviews-list-table.php:80
+#: admin/inc/class-reviews-list-table.php:293
+#: admin/views/view-claim-details.php:53 admin/views/view-claim-details.php:93
+#: inc/class-post-types.php:207
+msgid "Pending"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:77
+#: admin/inc/class-reviews-list-table.php:82
+#: admin/inc/class-reviews-list-table.php:294
+#: admin/views/view-claim-details.php:56 admin/views/view-claim-details.php:94
+#: inc/class-post-types.php:212
+msgid "Rejected"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:214
+#: admin/inc/class-enquires-list-table.php:210
+#: admin/inc/class-reports-list-table.php:206
+#: admin/inc/class-reviews-list-table.php:232
+msgid "%d item(s) deleted."
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:218
+#: admin/inc/class-enquires-list-table.php:202
+#: admin/inc/class-enquires-list-table.php:206
+#: admin/inc/class-reports-list-table.php:198
+#: admin/inc/class-reports-list-table.php:202
+#: admin/inc/class-reviews-list-table.php:220
+#: admin/inc/class-reviews-list-table.php:224
+#: admin/inc/class-reviews-list-table.php:228
+msgid "%d item(s) updated."
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:274
+#: admin/inc/class-enquires-list-table.php:263
+#: admin/inc/class-reports-list-table.php:259
+#: admin/inc/class-reviews-list-table.php:291 inc/class-filter.php:1291
+msgid "All"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:275
+#: admin/inc/class-enquires-list-table.php:75
+#: admin/inc/class-enquires-list-table.php:264
+#: admin/inc/class-reports-list-table.php:75
+#: admin/inc/class-reports-list-table.php:260
+msgid "Unread"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:276
+#: admin/inc/class-enquires-list-table.php:73
+#: admin/inc/class-enquires-list-table.php:265
+#: admin/inc/class-reports-list-table.php:73
+#: admin/inc/class-reports-list-table.php:261
+msgid "Read"
+msgstr ""
+
+#: admin/inc/class-enquires-list-table.php:20 inc/class-settings.php:649
+#: inc/listing-display-fields.php:209
+msgid "Enquiry"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:19 inc/class-settings.php:322
+#: templates/dashboard/reviews.php:11
+msgid "Listing"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:20 admin/views/view-list.php:17
+#: inc/class-dashboard__premium_only.php:204
+#: inc/class-import__premium_only.php:149
+msgid "Listings"
+msgstr ""
+
+#: admin/inc/class-listing_type-table.php:19 inc/class-settings.php:415
+msgid "Listing Type"
+msgstr ""
+
+#: admin/inc/class-reports-list-table.php:20 inc/class-listing-display.php:648
+#: inc/class-settings.php:761 templates/form/report.php:5
+msgid "Report"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:20
+#: admin/views/view-review-details.php:49 inc/class-settings.php:725
+msgid "Review"
+msgstr ""
+
+#: admin/views/view-claim-details.php:10
+msgid "Status updated."
+msgstr ""
+
+#: admin/views/view-claim-details.php:20
+msgid "Claim Details"
+msgstr ""
+
+#: admin/views/view-claim-details.php:22
+#: admin/views/view-enquiry-details.php:11
+#: admin/views/view-report-details.php:11
+#: admin/views/view-review-details.php:10
+msgid "Back"
+msgstr ""
+
+#: admin/views/view-claim-details.php:35
+#: admin/views/view-enquiry-details.php:18
+#: admin/views/view-report-details.php:18
+#: admin/views/view-review-details.php:17
+msgid "Listing Item"
+msgstr ""
+
+#: admin/views/view-claim-details.php:38
+#: admin/views/view-enquiry-details.php:21
+#: admin/views/view-report-details.php:21
+#: admin/views/view-review-details.php:20
+msgid "Listing item deleted."
+msgstr ""
+
+#: admin/views/view-claim-details.php:45 admin/views/view-edit-listing.php:136
+#: admin/views/view-edit-type.php:105 inc/class-post-types.php:296
+#: templates/dashboard/loop.php:16
+msgid "Status"
+msgstr ""
+
+#: admin/views/view-claim-details.php:66
+#: admin/views/view-enquiry-details.php:28
+#: admin/views/view-report-details.php:28
+msgid "Submited by"
+msgstr ""
+
+#: admin/views/view-claim-details.php:70
+#: admin/views/view-enquiry-details.php:32
+#: admin/views/view-report-details.php:32
+#: admin/views/view-review-details.php:31
+msgid "Created on"
+msgstr ""
+
+#: admin/views/view-claim-details.php:75
+#: admin/views/view-enquiry-details.php:37
+#: admin/views/view-review-details.php:43 templates/form/enquiry.php:60
+#: templates/form/review.php:61
+msgid "Summary"
+msgstr ""
+
+#: admin/views/view-claim-details.php:81
+#: admin/views/view-enquiry-details.php:43
+msgid "Message"
+msgstr ""
+
+#: admin/views/view-claim-details.php:86
+#: admin/views/view-enquiry-details.php:48
+#: admin/views/view-report-details.php:41
+#: admin/views/view-review-details.php:54
+msgid "IP"
+msgstr ""
+
+#: admin/views/view-claim_entries.php:14
+msgid "Claim Entrires"
+msgstr ""
+
+#: admin/views/view-claim_entries.php:16
+msgid "Claim Entrires for: <em>%s</em>"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:24
+msgid "Equeries (%s)"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:28
+msgid "Reviews (%s)"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:32
+msgid "Claims (%s)"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:36
+msgid "Reports (%s)"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:47
+msgid "Editing %1$s Listing: <em>%2$s</em>"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:49
+msgid "New %s Listing"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:57 admin/views/view-edit-type.php:29
+msgid "Back to list"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:59 admin/views/view-edit-type.php:31
+msgid "New"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:60 inc/class-taxonomies.php:41
+msgid "View"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:129
+msgid "Advanced"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:144
+msgid "Expiration date"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:146 inc/listing-display-fields.php:50
+#: inc/listing-fields.php:40
+msgid "Select date..."
+msgstr ""
+
+#: admin/views/view-edit-listing.php:154 admin/views/view-edit-type.php:112
+msgid "Slug"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:162 inc/listing-display-fields.php:82
+msgid "Author"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:164 admin/views/view-edit-listing.php:175
+#: inc/listing-display-fields.php:84 inc/listing-display-fields.php:96
+msgid "Select an user"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:173 inc/listing-display-fields.php:94
+msgid "Claimer"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:185 inc/class-post-types.php:298
+#: inc/class-template.php:150
+msgid "Verified"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:191
+msgid "Featured this listing"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:204
+msgid "Disable enqueries"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:210
+msgid "Disable claim"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:222
+msgid "Disable reviews"
+msgstr ""
+
+#: admin/views/view-edit-listing.php:228
+msgid "Disable report"
+msgstr ""
+
+#: admin/views/view-edit-type.php:20
+msgid "Editing Listing Type: <em>%s</em>"
+msgstr ""
+
+#: admin/views/view-edit-type.php:61 admin/views/view-edit-type.php:75
+#: inc/class-settings.php:316 inc/class-settings.php:347
+#: inc/class-settings.php:621
+msgid "General"
+msgstr ""
+
+#: admin/views/view-edit-type.php:62 admin/views/view-edit-type.php:172
+msgid "Fields"
+msgstr ""
+
+#: admin/views/view-edit-type.php:63
+msgid "Single Layout"
+msgstr ""
+
+#: admin/views/view-edit-type.php:64 templates/filter.php:6
+msgid "Filter"
+msgstr ""
+
+#: admin/views/view-edit-type.php:80
+msgid "Plural Name"
+msgstr ""
+
+#: admin/views/view-edit-type.php:85
+msgid "Singular Name"
+msgstr ""
+
+#: admin/views/view-edit-type.php:93 inc/class-form.php:1595
+#: inc/class-taxonomies.php:97 inc/class-taxonomies.php:215
+msgid "Icon"
+msgstr ""
+
+#: admin/views/view-edit-type.php:95
+msgid "Select an icon..."
+msgstr ""
+
+#: admin/views/view-edit-type.php:102
+msgid "Active"
+msgstr ""
+
+#: admin/views/view-edit-type.php:103
+msgid "Deactive"
+msgstr ""
+
+#: admin/views/view-edit-type.php:117 inc/class-form.php:1486
+#: inc/listing-display-fields.php:37 inc/listing-fields.php:26
+msgid "Description"
+msgstr ""
+
+#: admin/views/view-edit-type.php:131
+msgid "Taxonomy Highlights"
+msgstr ""
+
+#: admin/views/view-edit-type.php:136
+msgid "Limit highlight terms."
+msgstr ""
+
+#: admin/views/view-edit-type.php:146
+msgid "Category restrictions"
+msgstr ""
+
+#: admin/views/view-edit-type.php:147
+msgid ""
+"Category restrictions for this listing type. All selected categories will "
+"be allowed. Leave empty to allow all."
+msgstr ""
+
+#: admin/views/view-edit-type.php:150
+msgid "Select categories..."
+msgstr ""
+
+#: admin/views/view-edit-type.php:206 inc/class-form.php:1416
+msgid "Main Column"
+msgstr ""
+
+#: admin/views/view-edit-type.php:220 inc/class-form.php:1426
+msgid "Sidebar Column"
+msgstr ""
+
+#: admin/views/view-edit-type.php:245
+msgid "Quick Filters"
+msgstr ""
+
+#: admin/views/view-edit-type.php:251
+msgid ""
+"Enter taxonomy <strong>term_id</strong>, example: 1,2,3. Separated by "
+"commas."
+msgstr ""
+
+#: admin/views/view-enquiries.php:16
+msgid "Enquiries for: <em>%s</em>"
+msgstr ""
+
+#: admin/views/view-enquiry-details.php:9
+msgid "Enquiry Details"
+msgstr ""
+
+#: admin/views/view-report-details.php:9
+msgid "Report Details"
+msgstr ""
+
+#: admin/views/view-report-details.php:36
+msgid "Reason"
+msgstr ""
+
+#: admin/views/view-reports.php:16
+msgid "Reports for: <em>%s</em>"
+msgstr ""
+
+#: admin/views/view-review-details.php:8
+msgid "Review Details"
+msgstr ""
+
+#: admin/views/view-review-details.php:27
+msgid "Reviewed by"
+msgstr ""
+
+#: admin/views/view-review-details.php:35 inc/class-post-types.php:297
+#: templates/dashboard/reviews.php:12
+msgid "Rating"
+msgstr ""
+
+#: admin/views/view-reviews.php:16
+msgid "Reviews for: <em>%s</em>"
+msgstr ""
+
+#: admin/views/view-settings.php:53
+msgid "Not settings found"
+msgstr ""
+
+#: admin/views/view-settings.php:58 templates/dashboard/profile.php:66
+msgid "Save Changes"
+msgstr ""
+
+#: admin/views/view-tools.php:9 admin/views/view-tools.php:26
+msgid "Export"
+msgstr ""
+
+#: admin/views/view-tools.php:16
+msgid "Select Listing Type"
+msgstr ""
+
+#: admin/views/view-tools.php:26
+msgid "Exporting..."
+msgstr ""
+
+#: admin/views/view-tools.php:41 admin/views/view-tools.php:53
+msgid "Import"
+msgstr ""
+
+#: admin/views/view-tools.php:45
+msgid "An error occur while upload file, please try again."
+msgstr ""
+
+#: admin/views/view-tools.php:50
+msgid "Select an excel file to import."
+msgstr ""
+
+#: admin/views/view-tools.php:53
+msgid "Importing..."
+msgstr ""
+
+#: crud/class-listing.php:824
+msgid "%1$s insert error."
+msgstr ""
+
+#: crud/class-listing.php:838
+msgid "%1$s no term"
+msgstr ""
+
+#: crud/class-listing.php:966
+msgid "New listing error."
+msgstr ""
+
+#: crud/class-model.php:142
+msgid "Can not insert data."
+msgstr ""
+
+#: inc/class-ajax-form.php:119 inc/class-ajax-form.php:197
+#: inc/class-ajax-form.php:279 inc/class-ajax-form.php:368
+msgid "Invalid listing."
+msgstr ""
+
+#: inc/class-ajax-form.php:123 inc/class-ajax-form.php:372
+msgid "Report disabled for this listing."
+msgstr ""
+
+#: inc/class-ajax-form.php:127 inc/class-ajax-form.php:217
+#: inc/class-ajax-form.php:301
+msgid "Please enter your message."
+msgstr ""
+
+#: inc/class-ajax-form.php:132
+msgid "You've already reported this listing. It is currently being reviewed."
+msgstr ""
+
+#: inc/class-ajax-form.php:146
+msgid ""
+"Your report was submitted successfully. It will be shortly reviewed by our "
+"team."
+msgstr ""
+
+#: inc/class-ajax-form.php:201
+msgid "Claim disabled for this listing."
+msgstr ""
+
+#: inc/class-ajax-form.php:205
+msgid "You not able to claim this listing."
+msgstr ""
+
+#: inc/class-ajax-form.php:209 inc/class-ajax-form.php:287
+#: inc/class-ajax-form.php:376
+msgid "Please enter your name"
+msgstr ""
+
+#: inc/class-ajax-form.php:213 inc/class-ajax-form.php:291
+#: inc/listing-fields.php:99
+msgid "Please enter valid email."
+msgstr ""
+
+#: inc/class-ajax-form.php:231
+msgid ""
+"Your claim was submitted successfully. It will be shortly reviewed by our "
+"team."
+msgstr ""
+
+#: inc/class-ajax-form.php:283
+msgid "Enquiries disabled."
+msgstr ""
+
+#: inc/class-ajax-form.php:296
+msgid "Please enter your title."
+msgstr ""
+
+#: inc/class-ajax-form.php:315
+msgid "Thank you for your message. It has been sent."
+msgstr ""
+
+#: inc/class-ajax-form.php:380
+msgid "Please enter a valid email."
+msgstr ""
+
+#: inc/class-ajax-form.php:385
+msgid "Please enter your summary."
+msgstr ""
+
+#: inc/class-ajax-form.php:390
+msgid "Please select your rating."
+msgstr ""
+
+#: inc/class-ajax-form.php:394
+msgid "Please enter your review."
+msgstr ""
+
+#: inc/class-ajax-form.php:410
+msgid "Thank you for your review. It has been saved."
+msgstr ""
+
+#: inc/class-ajax-form.php:445
+msgid "Please verify that you aren't not a robot."
+msgstr ""
+
+#: inc/class-ajax-form.php:466
+msgid "The listing type doesn't exists."
+msgstr ""
+
+#: inc/class-ajax-form.php:475
+msgid "Submit listing was disabled by admin."
+msgstr ""
+
+#: inc/class-ajax-form.php:523
+msgid "Please fill all required fields."
+msgstr ""
+
+#: inc/class-ajax-form.php:570
+msgid "You have not permisions to submmit listing."
+msgstr ""
+
+#: inc/class-ajax-form.php:585
+msgid ""
+"Your listing was submitted successfully. It will be shortly reviewed by our "
+"team."
+msgstr ""
+
+#: inc/class-ajax-form.php:637
+msgid "You have not permisions to add or edit listing type."
+msgstr ""
+
+#: inc/class-ajax-form.php:642
+msgid "Listing type saved."
+msgstr ""
+
+#: inc/class-cron.php:219
+msgid "Every minute"
+msgstr ""
+
+#: inc/class-cron.php:223
+msgid "Twice Hourly"
+msgstr ""
+
+#: inc/class-cron.php:227
+msgid "Every 5 minutes"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:96
+msgid "Please enter your first name"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:100
+msgid "Please enter your last name"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:104
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:108
+msgid "Please enter your display name"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:121
+msgid "Please confirm new password."
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:124
+msgid "New passwords do not match."
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:146
+msgid "Your profile update."
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:205
+msgid "Claimes"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:207
+msgid "Profile"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:208
+msgid "Logout"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:311
+msgid "My Listings"
+msgstr ""
+
+#: inc/class-dashboard__premium_only.php:314
+msgid "Listing Packages"
+msgstr ""
+
+#: inc/class-export__premium_only.php:32
+msgid "Please select a listing type to export."
+msgstr ""
+
+#: inc/class-export__premium_only.php:62
+msgid "Error occur, please try again."
+msgstr ""
+
+#: inc/class-export__premium_only.php:94
+msgid "Proceed %1$s/%2$s listing items."
+msgstr ""
+
+#: inc/class-export__premium_only.php:100
+msgid "Start exporting listings...(%1$s/%2$s)"
+msgstr ""
+
+#: inc/class-export__premium_only.php:111
+msgid "All done!"
+msgstr ""
+
+#: inc/class-export__premium_only.php:128
+msgid "Proceed listing terms."
+msgstr ""
+
+#: inc/class-export__premium_only.php:129
+msgid "Start exporting listings..."
+msgstr ""
+
+#: inc/class-export__premium_only.php:141
+msgid "Proceed listing taxonomies."
+msgstr ""
+
+#: inc/class-export__premium_only.php:142
+msgid "Proceing listing terms."
+msgstr ""
+
+#: inc/class-export__premium_only.php:154
+msgid "Proceed listing type."
+msgstr ""
+
+#: inc/class-export__premium_only.php:155
+msgid "Proceing listing taxonomies."
+msgstr ""
+
+#: inc/class-filter.php:83 inc/class-filter.php:497 inc/class-filter.php:1129
+#: inc/class-filter.php:1221
+msgid "Search"
+msgstr ""
+
+#: inc/class-filter.php:84
+msgid "Cancel"
+msgstr ""
+
+#: inc/class-filter.php:114 inc/class-post-types.php:365
+msgid "Search Listings"
+msgstr ""
+
+#: inc/class-filter.php:235
+msgid "Sortby"
+msgstr ""
+
+#: inc/class-filter.php:239
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-filter.php:240
+msgid "Highest rated"
+msgstr ""
+
+#: inc/class-filter.php:241
+msgid "Most reviewed"
+msgstr ""
+
+#: inc/class-filter.php:250
+msgid "Bird's-eye view"
+msgstr ""
+
+#: inc/class-filter.php:251
+msgid "Driving (5%s.)"
+msgstr ""
+
+#: inc/class-filter.php:252
+msgid "Biking (2%s.)"
+msgstr ""
+
+#: inc/class-filter.php:253
+msgid "Walking (1%s.)"
+msgstr ""
+
+#: inc/class-filter.php:257
+msgid "Distance"
+msgstr ""
+
+#: inc/class-filter.php:283 inc/class-filter.php:366
+msgid "Category"
+msgstr ""
+
+#: inc/class-filter.php:495
+msgid "More %s"
+msgstr ""
+
+#: inc/class-filter.php:521 templates/submit-listing/form.php:65
+msgid "Save"
+msgstr ""
+
+#: inc/class-filter.php:538 inc/listing-display-fields.php:69
+#: inc/listing-fields.php:61
+msgid "$"
+msgstr ""
+
+#: inc/class-filter.php:539 inc/listing-display-fields.php:70
+#: inc/listing-fields.php:62
+msgid "$$"
+msgstr ""
+
+#: inc/class-filter.php:540 inc/listing-display-fields.php:71
+#: inc/listing-fields.php:63
+msgid "$$$"
+msgstr ""
+
+#: inc/class-filter.php:541 inc/listing-display-fields.php:72
+#: inc/listing-fields.php:64
+msgid "$$$$"
+msgstr ""
+
+#: inc/class-filter.php:1172
+msgid "What are you looking for?"
+msgstr ""
+
+#: inc/class-filter.php:1194
+msgid "Address, city, state or zip"
+msgstr ""
+
+#: inc/class-filter.php:1248
+msgid "Min %s"
+msgstr ""
+
+#: inc/class-filter.php:1252
+msgid "Max %s"
+msgstr ""
+
+#: inc/class-filter.php:1293 inc/listing-display-fields.php:59
+#: inc/listing-fields.php:50
+msgid "Price"
+msgstr ""
+
+#: inc/class-filter.php:1311
+msgid "Min Price"
+msgstr ""
+
+#: inc/class-filter.php:1314
+msgid "Max Price"
+msgstr ""
+
+#: inc/class-form.php:332
+msgid "%s <span class=\"required\">*</span>"
+msgstr ""
+
+#: inc/class-form.php:362 inc/class-form.php:409
+msgid "(Removed)"
+msgstr ""
+
+#: inc/class-form.php:389
+msgid "Custom value"
+msgstr ""
+
+#: inc/class-form.php:479 inc/class-form.php:497 inc/class-form.php:551
+#: inc/class-form.php:609
+msgid "Select an item to add"
+msgstr ""
+
+#: inc/class-form.php:619
+msgid "Add new term"
+msgstr ""
+
+#: inc/class-form.php:632
+msgid "Enter new item name"
+msgstr ""
+
+#: inc/class-form.php:675
+msgid "Upload files"
+msgstr ""
+
+#: inc/class-form.php:718
+msgid "E.g New York"
+msgstr ""
+
+#: inc/class-form.php:737
+msgid "Latitude"
+msgstr ""
+
+#: inc/class-form.php:748
+msgid "Longitude"
+msgstr ""
+
+#: inc/class-form.php:782
+msgid "Enter URL..."
+msgstr ""
+
+#: inc/class-form.php:787
+msgid "Add new"
+msgstr ""
+
+#: inc/class-form.php:808
+msgid "Enter hours"
+msgstr ""
+
+#: inc/class-form.php:809
+msgid "All day"
+msgstr ""
+
+#: inc/class-form.php:810
+msgid "Closed all day"
+msgstr ""
+
+#: inc/class-form.php:860
+msgid "09 AM"
+msgstr ""
+
+#: inc/class-form.php:861
+msgid "21 PM"
+msgstr ""
+
+#: inc/class-form.php:862
+msgid "Add more open hour"
+msgstr ""
+
+#: inc/class-form.php:863
+msgid "Remove"
+msgstr ""
+
+#: inc/class-form.php:1115 inc/class-form.php:1195
+msgid "Select..."
+msgstr ""
+
+#: inc/class-form.php:1234
+msgid "Select a page"
+msgstr ""
+
+#: inc/class-form.php:1252
+msgid "Clear"
+msgstr ""
+
+#: inc/class-form.php:1386
+msgid "Layout"
+msgstr ""
+
+#: inc/class-form.php:1389
+msgid "Default - Single column"
+msgstr ""
+
+#: inc/class-form.php:1390
+msgid "Two columns"
+msgstr ""
+
+#: inc/class-form.php:1391
+msgid "Two thirds / One third"
+msgstr ""
+
+#: inc/class-form.php:1392
+msgid "One third / Two thirds"
+msgstr ""
+
+#: inc/class-form.php:1401
+msgid "Edit Main Column"
+msgstr ""
+
+#: inc/class-form.php:1407
+msgid "Edit Sidebar Column"
+msgstr ""
+
+#: inc/class-form.php:1466 inc/class-form.php:1591
+msgid "Label"
+msgstr ""
+
+#: inc/class-form.php:1471
+msgid "Custom key"
+msgstr ""
+
+#: inc/class-form.php:1476
+msgid "Placeholder"
+msgstr ""
+
+#: inc/class-form.php:1481
+msgid "Options"
+msgstr ""
+
+#: inc/class-form.php:1490
+msgid "Required field"
+msgstr ""
+
+#: inc/class-form.php:1493
+msgid "Required message"
+msgstr ""
+
+#: inc/class-form.php:1497
+msgid "Done"
+msgstr ""
+
+#: inc/class-form.php:1536 inc/class-form.php:1687
+msgid "Preset Fields"
+msgstr ""
+
+#: inc/class-form.php:1539
+msgid "Create a custom field"
+msgstr ""
+
+#: inc/class-form.php:1607
+msgid "Layout Column"
+msgstr ""
+
+#: inc/class-form.php:1619
+msgid "Field Name"
+msgstr ""
+
+#: inc/class-form.php:1623
+msgid "Content"
+msgstr ""
+
+#: inc/class-form.php:1634
+msgid "Display Style"
+msgstr ""
+
+#: inc/class-form.php:1636
+msgid "Default"
+msgstr ""
+
+#: inc/class-form.php:1637
+msgid "Box no border"
+msgstr ""
+
+#: inc/class-form.php:1638
+msgid "List"
+msgstr ""
+
+#: inc/class-form.php:1639
+msgid "Inline"
+msgstr ""
+
+#: inc/class-form.php:1640
+msgid "Column"
+msgstr ""
+
+#: inc/class-form.php:1644
+msgid "Hide group heading"
+msgstr ""
+
+#: inc/class-form.php:1647
+msgid "Hide sub items heading"
+msgstr ""
+
+#: inc/class-form.php:1690
+msgid "Custom Fields"
+msgstr ""
+
+#: inc/class-frontend.php:45
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/class-frontend.php:46
+msgid "Your location"
+msgstr ""
+
+#: inc/class-import__premium_only.php:60 inc/class-import__premium_only.php:67
+msgid "No import file found."
+msgstr ""
+
+#: inc/class-import__premium_only.php:74
+msgid "Invalid import file."
+msgstr ""
+
+#: inc/class-import__premium_only.php:85
+msgid "Terms setup finished."
+msgstr ""
+
+#: inc/class-import__premium_only.php:118
+msgid "Listing type"
+msgstr ""
+
+#: inc/class-import__premium_only.php:128 inc/class-taxonomies.php:518
+#: inc/class-taxonomies.php:541
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/class-import__premium_only.php:139
+msgid "Terms"
+msgstr ""
+
+#: inc/class-import__premium_only.php:178
+msgid "No listing items found."
+msgstr ""
+
+#: inc/class-import__premium_only.php:181
+msgid "No %s found."
+msgstr ""
+
+#: inc/class-import__premium_only.php:239
+msgid "Imported listing type."
+msgstr ""
+
+#: inc/class-import__premium_only.php:242
+msgid "Imported %1$s/%2$s taxonomies."
+msgstr ""
+
+#: inc/class-import__premium_only.php:245
+msgid "Imported %1$s/%2$s terms."
+msgstr ""
+
+#: inc/class-import__premium_only.php:248
+msgid "Imported %1$s/%2$s listings."
+msgstr ""
+
+#: inc/class-import__premium_only.php:254
+msgid "All done."
+msgstr ""
+
+#: inc/class-listing-display.php:252 inc/class-post-types.php:211
+#: templates/dashboard/loop.php:18
+msgid "Claimed"
+msgstr ""
+
+#: inc/class-listing-display.php:270
+msgid "Edit"
+msgstr ""
+
+#: inc/class-listing-display.php:298
+msgid "Show less"
+msgstr ""
+
+#: inc/class-listing-display.php:318
+msgid " @ "
+msgstr ""
+
+#: inc/class-listing-display.php:627 templates/form/review.php:6
+msgid "Write a Review"
+msgstr ""
+
+#: inc/class-listing-display.php:634
+msgid "Send an Enquiry"
+msgstr ""
+
+#: inc/class-listing-display.php:901
+msgid "Closed"
+msgstr ""
+
+#: inc/class-listing-display.php:904
+msgid "Open 24 hours"
+msgstr ""
+
+#: inc/class-listing-display.php:910
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: inc/class-listing-display.php:996 inc/class-listing-display.php:1004
+msgid "See All %2$s"
+msgstr ""
+
+#: inc/class-post-types.php:114
+msgid "Sorry, you are not allowed to update this listing status."
+msgstr ""
+
+#: inc/class-post-types.php:123
+msgid "Error in updating status"
+msgstr ""
+
+#: inc/class-post-types.php:151
+msgid "Change status to publish"
+msgstr ""
+
+#: inc/class-post-types.php:152
+msgid "Change status to pending review"
+msgstr ""
+
+#: inc/class-post-types.php:154
+msgid "Change status to pending payment"
+msgstr ""
+
+#: inc/class-post-types.php:156
+msgid "Change status to rejected"
+msgstr ""
+
+#: inc/class-post-types.php:157
+msgid "Change status to expired"
+msgstr ""
+
+#: inc/class-post-types.php:158
+msgid "Duplicate"
+msgstr ""
+
+#: inc/class-post-types.php:191
+msgid "#%s"
+msgstr ""
+
+#: inc/class-post-types.php:206
+msgid "Publish"
+msgstr ""
+
+#: inc/class-post-types.php:209
+msgid "Pending Payment"
+msgstr ""
+
+#: inc/class-post-types.php:213
+msgid "Expired"
+msgstr ""
+
+#: inc/class-post-types.php:214
+msgid "Trash"
+msgstr ""
+
+#: inc/class-post-types.php:215
+msgid "Draft"
+msgstr ""
+
+#: inc/class-post-types.php:264
+msgid "Select category"
+msgstr ""
+
+#: inc/class-post-types.php:276
+msgid "Select type"
+msgstr ""
+
+#: inc/class-post-types.php:299
+msgid "Type"
+msgstr ""
+
+#: inc/class-post-types.php:300 inc/listing-display-fields.php:118
+#: inc/listing-fields.php:88
+msgid "Region"
+msgstr ""
+
+#: inc/class-post-types.php:320
+msgid "N/A"
+msgstr ""
+
+#: inc/class-post-types.php:359
+msgid "Add New"
+msgstr ""
+
+#: inc/class-post-types.php:360
+msgid "Add New Listing"
+msgstr ""
+
+#: inc/class-post-types.php:363
+msgid "View Listing"
+msgstr ""
+
+#: inc/class-post-types.php:364
+msgid "All Listings"
+msgstr ""
+
+#: inc/class-post-types.php:366
+msgid "Parent Listings:"
+msgstr ""
+
+#: inc/class-post-types.php:367 templates/dashboard/loop.php:74
+#: templates/dashboard/packages.php:59 templates/dashboard/reviews.php:46
+msgid "No listings found."
+msgstr ""
+
+#: inc/class-post-types.php:368
+msgid "No listings found in Trash."
+msgstr ""
+
+#: inc/class-request.php:544
+msgid "Invalid term."
+msgstr ""
+
+#: inc/class-settings.php:42
+msgid "Explore"
+msgstr ""
+
+#: inc/class-settings.php:66
+msgid "ListPlus: You're almost done!"
+msgstr ""
+
+#: inc/class-settings.php:67
+msgid ""
+"ListPlus requied Listings Page to make it works. Please visit Settings -> "
+"Settings and select a page."
+msgstr ""
+
+#: inc/class-settings.php:69
+msgid "Auto Setup"
+msgstr ""
+
+#: inc/class-settings.php:70
+msgid "Visit Settings Page"
+msgstr ""
+
+#: inc/class-settings.php:112
+msgid "Settings saved."
+msgstr ""
+
+#: inc/class-settings.php:290
+msgid "Mon"
+msgstr ""
+
+#: inc/class-settings.php:291
+msgid "Tue"
+msgstr ""
+
+#: inc/class-settings.php:292
+msgid "Wed"
+msgstr ""
+
+#: inc/class-settings.php:293
+msgid "Thu"
+msgstr ""
+
+#: inc/class-settings.php:294
+msgid "Fri"
+msgstr ""
+
+#: inc/class-settings.php:295
+msgid "Sat"
+msgstr ""
+
+#: inc/class-settings.php:296
+msgid "Sun"
+msgstr ""
+
+#: inc/class-settings.php:303
+msgid "Bad"
+msgstr ""
+
+#: inc/class-settings.php:304
+msgid "Not bad"
+msgstr ""
+
+#: inc/class-settings.php:305
+msgid "Ok"
+msgstr ""
+
+#: inc/class-settings.php:306
+msgid "Good"
+msgstr ""
+
+#: inc/class-settings.php:307
+msgid "Excellent"
+msgstr ""
+
+#: inc/class-settings.php:329
+msgid "Emails"
+msgstr ""
+
+#: inc/class-settings.php:334 inc/class-settings.php:804
+msgid "Account"
+msgstr ""
+
+#: inc/class-settings.php:352
+msgid "Listings Page"
+msgstr ""
+
+#: inc/class-settings.php:357
+msgid "Submit Page"
+msgstr ""
+
+#: inc/class-settings.php:362
+msgid "Listing per page"
+msgstr ""
+
+#: inc/class-settings.php:367
+msgid "Distace unit"
+msgstr ""
+
+#: inc/class-settings.php:369
+msgid "Km (Kilomet)"
+msgstr ""
+
+#: inc/class-settings.php:370
+msgid "Mi (Mile)"
+msgstr ""
+
+#: inc/class-settings.php:376
+msgid "Default listing status"
+msgstr ""
+
+#: inc/class-settings.php:385
+msgid "Permalinks"
+msgstr ""
+
+#: inc/class-settings.php:399
+msgid "Single Listing Slug"
+msgstr ""
+
+#: inc/class-settings.php:407
+msgid "Listing Category"
+msgstr ""
+
+#: inc/class-settings.php:423
+msgid "Listing Region"
+msgstr ""
+
+#: inc/class-settings.php:434
+msgid "Google Map"
+msgstr ""
+
+#: inc/class-settings.php:440
+msgid "Google Map API"
+msgstr ""
+
+#: inc/class-settings.php:442
+msgid "Your Google Map API key"
+msgstr ""
+
+#: inc/class-settings.php:451
+msgid "reCAPTCHA"
+msgstr ""
+
+#: inc/class-settings.php:456
+msgid "Enable?"
+msgstr ""
+
+#: inc/class-settings.php:465
+msgid "Recaptcha key"
+msgstr ""
+
+#: inc/class-settings.php:467
+msgid "Your key here"
+msgstr ""
+
+#: inc/class-settings.php:474
+msgid "Recaptcha scret"
+msgstr ""
+
+#: inc/class-settings.php:476
+msgid "Your scret key here"
+msgstr ""
+
+#: inc/class-settings.php:494
+msgid "Single Listing"
+msgstr ""
+
+#: inc/class-settings.php:499
+msgid "Toggle description"
+msgstr ""
+
+#: inc/class-settings.php:502 inc/class-settings.php:515
+#: inc/class-settings.php:529 inc/class-settings.php:543
+#: inc/class-settings.php:598 inc/class-settings.php:825
+#: inc/class-settings.php:838
+msgid "No"
+msgstr ""
+
+#: inc/class-settings.php:503 inc/class-settings.php:516
+#: inc/class-settings.php:530 inc/class-settings.php:544
+#: inc/class-settings.php:599 inc/class-settings.php:826
+#: inc/class-settings.php:839
+msgid "Yes"
+msgstr ""
+
+#: inc/class-settings.php:512
+msgid "Show enquiry form title"
+msgstr ""
+
+#: inc/class-settings.php:526
+msgid "Disable listing thumbnail?"
+msgstr ""
+
+#: inc/class-settings.php:540
+msgid "Disable listing comments?"
+msgstr ""
+
+#: inc/class-settings.php:562
+msgid "Max rating score"
+msgstr ""
+
+#: inc/class-settings.php:571
+msgid "Reviews per page"
+msgstr ""
+
+#: inc/class-settings.php:580
+msgid "Default review status"
+msgstr ""
+
+#: inc/class-settings.php:584
+msgid "pending"
+msgstr ""
+
+#: inc/class-settings.php:585
+msgid "rejected"
+msgstr ""
+
+#: inc/class-settings.php:595
+msgid "Hide form title?"
+msgstr ""
+
+#: inc/class-settings.php:626
+msgid "Admin email"
+msgstr ""
+
+#: inc/class-settings.php:636
+msgid "Email from"
+msgstr ""
+
+#: inc/class-settings.php:637
+msgid "Custom from email in email header."
+msgstr ""
+
+#: inc/class-settings.php:639
+msgid "Custom email from"
+msgstr ""
+
+#: inc/class-settings.php:654
+msgid "Send message to admin"
+msgstr ""
+
+#: inc/class-settings.php:661
+msgid "Send message to listing owner"
+msgstr ""
+
+#: inc/class-settings.php:668
+msgid "Subject"
+msgstr ""
+
+#: inc/class-settings.php:677
+msgid "Body"
+msgstr ""
+
+#: inc/class-settings.php:694 inc/class-settings.php:730
+#: inc/class-settings.php:766
+msgid "Admin Email"
+msgstr ""
+
+#: inc/class-settings.php:704 inc/class-settings.php:740
+#: inc/class-settings.php:776
+msgid "Email Subject"
+msgstr ""
+
+#: inc/class-settings.php:713 inc/class-settings.php:749
+#: inc/class-settings.php:785
+msgid "Email Body"
+msgstr ""
+
+#: inc/class-settings.php:809
+msgid "Account page"
+msgstr ""
+
+#: inc/class-settings.php:817
+msgid "WooCommerce Integration"
+msgstr ""
+
+#: inc/class-settings.php:822
+msgid "Purchase to claim?"
+msgstr ""
+
+#: inc/class-settings.php:835
+msgid "Purchase to submmit?"
+msgstr ""
+
+#: inc/class-settings.php:849
+msgid "Pricing page"
+msgstr ""
+
+#: inc/class-sidebar.php:23
+msgid "Show on all pages"
+msgstr ""
+
+#: inc/class-sidebar.php:24
+msgid "Show on lising archive"
+msgstr ""
+
+#: inc/class-sidebar.php:25
+msgid "Show on single listing"
+msgstr ""
+
+#: inc/class-sidebar.php:26
+msgid "Show on single & archive listing"
+msgstr ""
+
+#: inc/class-sidebar.php:27
+msgid "Hide on listing archive"
+msgstr ""
+
+#: inc/class-sidebar.php:28
+msgid "Hide on single listing"
+msgstr ""
+
+#: inc/class-sidebar.php:29
+msgid "Hide on single & archive listing"
+msgstr ""
+
+#: inc/class-sidebar.php:35
+msgid "Display"
+msgstr ""
+
+#: inc/class-taxonomies.php:64 inc/class-taxonomies.php:144
+msgid "Singular"
+msgstr ""
+
+#: inc/class-taxonomies.php:68 inc/class-taxonomies.php:153
+msgid "Plural"
+msgstr ""
+
+#: inc/class-taxonomies.php:72
+msgid "Frontend Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:76 inc/class-taxonomies.php:169
+msgid "Filter Label"
+msgstr ""
+
+#: inc/class-taxonomies.php:80 inc/class-taxonomies.php:177
+msgid "Hierarchical"
+msgstr ""
+
+#: inc/class-taxonomies.php:85 inc/class-taxonomies.php:190
+msgid "Check this to not show on filter."
+msgstr ""
+
+#: inc/class-taxonomies.php:89
+msgid "Allow user add terms."
+msgstr ""
+
+#: inc/class-taxonomies.php:92
+msgid "Additional info."
+msgstr ""
+
+#: inc/class-taxonomies.php:105 inc/class-taxonomies.php:226
+msgid "Select an icon"
+msgstr ""
+
+#: inc/class-taxonomies.php:112 inc/class-taxonomies.php:235
+#: templates/dashboard/loop.php:14
+msgid "Image"
+msgstr ""
+
+#: inc/class-taxonomies.php:161
+msgid "Frontend Display Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:185
+msgid "Exclude filter"
+msgstr ""
+
+#: inc/class-taxonomies.php:196
+msgid "Allow add new"
+msgstr ""
+
+#: inc/class-taxonomies.php:199
+msgid "Allow user add terms"
+msgstr ""
+
+#: inc/class-taxonomies.php:204
+msgid "Additional info"
+msgstr ""
+
+#: inc/class-taxonomies.php:207
+msgid "Check this to allow add custom additional info"
+msgstr ""
+
+#: inc/class-taxonomies.php:323
+msgid "Terms count"
+msgstr ""
+
+#: inc/class-taxonomies.php:324
+msgid "Action"
+msgstr ""
+
+#: inc/class-taxonomies.php:345
+msgid "View terms"
+msgstr ""
+
+#: inc/class-taxonomies.php:454
+msgid "Search Categories"
+msgstr ""
+
+#: inc/class-taxonomies.php:455
+msgid "All Categories"
+msgstr ""
+
+#: inc/class-taxonomies.php:456
+msgid "Parent Category"
+msgstr ""
+
+#: inc/class-taxonomies.php:457
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/class-taxonomies.php:458
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-taxonomies.php:459
+msgid "Update Category"
+msgstr ""
+
+#: inc/class-taxonomies.php:460
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-taxonomies.php:461
+msgid "New Category Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:462 inc/listing-display-fields.php:106
+#: inc/listing-fields.php:76
+msgid "Categories"
+msgstr ""
+
+#: inc/class-taxonomies.php:482
+msgid "Search Region"
+msgstr ""
+
+#: inc/class-taxonomies.php:483
+msgid "All Regions"
+msgstr ""
+
+#: inc/class-taxonomies.php:484
+msgid "Parent Region"
+msgstr ""
+
+#: inc/class-taxonomies.php:485
+msgid "Parent Region:"
+msgstr ""
+
+#: inc/class-taxonomies.php:486
+msgid "Edit Region"
+msgstr ""
+
+#: inc/class-taxonomies.php:487
+msgid "Update Region"
+msgstr ""
+
+#: inc/class-taxonomies.php:488
+msgid "Add New Region"
+msgstr ""
+
+#: inc/class-taxonomies.php:489
+msgid "New Region Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:490
+msgid "Regions"
+msgstr ""
+
+#: inc/class-taxonomies.php:510
+msgid "Search Taxonomy"
+msgstr ""
+
+#: inc/class-taxonomies.php:511
+msgid "All Taxonomies"
+msgstr ""
+
+#: inc/class-taxonomies.php:512
+msgid "Parent Taxonomy"
+msgstr ""
+
+#: inc/class-taxonomies.php:513
+msgid "Parent Taxonomy:"
+msgstr ""
+
+#: inc/class-taxonomies.php:514
+msgid "Edit Taxonomy"
+msgstr ""
+
+#: inc/class-taxonomies.php:515
+msgid "Update Taxonomy"
+msgstr ""
+
+#: inc/class-taxonomies.php:516
+msgid "Add New Taxonomy"
+msgstr ""
+
+#: inc/class-taxonomies.php:517
+msgid "New Taxonomy Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:533
+msgid "Search Type"
+msgstr ""
+
+#: inc/class-taxonomies.php:534
+msgid "All Types"
+msgstr ""
+
+#: inc/class-taxonomies.php:535
+msgid "Parent Type"
+msgstr ""
+
+#: inc/class-taxonomies.php:536
+msgid "Parent Type:"
+msgstr ""
+
+#: inc/class-taxonomies.php:537
+msgid "Edit Type"
+msgstr ""
+
+#: inc/class-taxonomies.php:538
+msgid "Update Type"
+msgstr ""
+
+#: inc/class-taxonomies.php:539
+msgid "Add New Type"
+msgstr ""
+
+#: inc/class-taxonomies.php:540
+msgid "New Type Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:581
+msgid "Search %s"
+msgstr ""
+
+#: inc/class-taxonomies.php:582
+msgid "All %s"
+msgstr ""
+
+#: inc/class-taxonomies.php:583 inc/class-taxonomies.php:584
+msgid "Parrent %s"
+msgstr ""
+
+#: inc/class-taxonomies.php:585
+msgid "Edit %s"
+msgstr ""
+
+#: inc/class-taxonomies.php:586
+msgid "Update %s"
+msgstr ""
+
+#: inc/class-taxonomies.php:587
+msgid "Add New %s"
+msgstr ""
+
+#: inc/class-taxonomies.php:588
+msgid "New %s Name"
+msgstr ""
+
+#: inc/class-taxonomies.php:589
+msgid "Listing %s"
+msgstr ""
+
+#: inc/class-widget-filter.php:17
+msgid "Listing Filter"
+msgstr ""
+
+#: inc/class-widget-filter.php:19
+msgid "Display listing filter form."
+msgstr ""
+
+#: inc/class-widget-filter.php:95 inc/class-widget-map.php:118
+#: inc/class-widget-single.php:134
+msgid "Title:"
+msgstr ""
+
+#: inc/class-widget-filter.php:101
+msgid "Form Type"
+msgstr ""
+
+#: inc/class-widget-filter.php:104
+msgid "Full"
+msgstr ""
+
+#: inc/class-widget-filter.php:105
+msgid "Mini"
+msgstr ""
+
+#: inc/class-widget-map.php:17
+msgid "Listings Map"
+msgstr ""
+
+#: inc/class-widget-map.php:19
+msgid "Display Listings Map"
+msgstr ""
+
+#: inc/class-widget-map.php:124
+msgid "Height:"
+msgstr ""
+
+#: inc/class-widget-map.php:131
+msgid "Sticky sidebar"
+msgstr ""
+
+#: inc/class-widget-map.php:137
+msgid "Sticky this widget"
+msgstr ""
+
+#: inc/class-widget-map.php:143
+msgid "No sticky"
+msgstr ""
+
+#: inc/class-widget-single.php:17
+msgid "Listing Details"
+msgstr ""
+
+#: inc/class-widget-single.php:19
+msgid "Display listing details in your single listing."
+msgstr ""
+
+#: inc/class-widget-single.php:141
+msgid "Display items as widgets."
+msgstr ""
+
+#: inc/class-widget-single.php:147
+msgid "Hide item heading"
+msgstr ""
+
+#: inc/listing-display-fields.php:22
+msgid "Listing Header"
+msgstr ""
+
+#: inc/listing-display-fields.php:28 templates/dashboard/loop.php:21
+#: templates/dashboard/reviews.php:14
+msgid "Actions"
+msgstr ""
+
+#: inc/listing-display-fields.php:48 inc/listing-fields.php:38
+msgid "Publish Date"
+msgstr ""
+
+#: inc/listing-display-fields.php:67 inc/listing-fields.php:59
+msgid "Price Range"
+msgstr ""
+
+#: inc/listing-display-fields.php:126 inc/listing-fields.php:97
+msgid "Email"
+msgstr ""
+
+#: inc/listing-display-fields.php:134 inc/listing-fields.php:106
+msgid "Phone"
+msgstr ""
+
+#: inc/listing-display-fields.php:139 inc/listing-fields.php:113
+msgid "Map"
+msgstr ""
+
+#: inc/listing-display-fields.php:151
+msgid "Address"
+msgstr ""
+
+#: inc/listing-display-fields.php:160 inc/listing-fields.php:126
+msgid "Websites & Social Networks"
+msgstr ""
+
+#: inc/listing-display-fields.php:169 inc/listing-fields.php:135
+msgid "Gallery"
+msgstr ""
+
+#: inc/listing-display-fields.php:177
+msgid "Video"
+msgstr ""
+
+#: inc/listing-display-fields.php:184
+msgid "Review Summary"
+msgstr ""
+
+#: inc/listing-display-fields.php:193
+msgid "Recommended Reviews"
+msgstr ""
+
+#: inc/listing-display-fields.php:199 inc/listing-fields.php:151
+msgid "Open Hours"
+msgstr ""
+
+#: inc/listing-display-fields.php:215
+msgid "Custom Field"
+msgstr ""
+
+#: inc/listing-display-fields.php:222
+msgid "Group"
+msgstr ""
+
+#: inc/listing-fields.php:15
+msgid "Title"
+msgstr ""
+
+#: inc/listing-fields.php:19
+msgid "Please enter listing title."
+msgstr ""
+
+#: inc/listing-fields.php:31
+msgid "Please enter listing description."
+msgstr ""
+
+#: inc/listing-fields.php:43
+msgid "Please select publish date."
+msgstr ""
+
+#: inc/listing-fields.php:52
+msgid "Please enter listing price."
+msgstr ""
+
+#: inc/listing-fields.php:67
+msgid "Please select price range."
+msgstr ""
+
+#: inc/listing-fields.php:80
+msgid "Please select categories."
+msgstr ""
+
+#: inc/listing-fields.php:90
+msgid "Please select region."
+msgstr ""
+
+#: inc/listing-fields.php:108
+msgid "Please enter phone number."
+msgstr ""
+
+#: inc/listing-fields.php:127
+msgid "Please enter your website or social networks."
+msgstr ""
+
+#: inc/listing-fields.php:136
+msgid "Please upload your media files."
+msgstr ""
+
+#: inc/listing-fields.php:143
+msgid "Video URL"
+msgstr ""
+
+#: inc/listing-fields.php:145
+msgid "Please enter video url."
+msgstr ""
+
+#: inc/listing-fields.php:155
+msgid "Please enter open hours."
+msgstr ""
+
+#: inc/listing-fields.php:161
+msgid "Text"
+msgstr ""
+
+#: inc/listing-fields.php:168
+msgid "Select"
+msgstr ""
+
+#: inc/listing-fields.php:174
+msgid "Textarea"
+msgstr ""
+
+#: inc/listing-fields.php:180
+msgid "Checkbox"
+msgstr ""
+
+#: inc/listing-fields.php:188
+msgid "Edtitor"
+msgstr ""
+
+#: inc/listing-fields.php:203
+msgid "Tax: %s"
+msgstr ""
+
+#: index.php:190
+msgid "Please call %1$s method after hook %2$s"
+msgstr ""
+
+#: templates/archives.php:50
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: templates/archives.php:70 templates/dashboard/pagination.php:12
+#: templates/single/reviews.php:95
+msgid "Previous"
+msgstr ""
+
+#: templates/archives.php:71 templates/dashboard/pagination.php:13
+#: templates/single/reviews.php:96
+msgid "Next"
+msgstr ""
+
+#: templates/dashboard/loop.php:15
+msgid "Name"
+msgstr ""
+
+#: templates/dashboard/loop.php:20
+msgid "Experied"
+msgstr ""
+
+#: templates/dashboard/loop.php:52
+msgid "Never"
+msgstr ""
+
+#: templates/dashboard/loop.php:62 templates/dashboard/reviews.php:34
+msgid "Delete"
+msgstr ""
+
+#: templates/dashboard/no-login.php:2
+msgid "Please <a href=\"%1$s\" rel=\"nofollow noindex\">Login</a> to continue..."
+msgstr ""
+
+#: templates/dashboard/packages.php:14
+msgid "#"
+msgstr ""
+
+#: templates/dashboard/packages.php:15
+msgid "Order"
+msgstr ""
+
+#: templates/dashboard/packages.php:16
+msgid "Package Name"
+msgstr ""
+
+#: templates/dashboard/packages.php:17
+msgid "Available"
+msgstr ""
+
+#: templates/dashboard/packages.php:18
+msgid "Limit"
+msgstr ""
+
+#: templates/dashboard/packages.php:19
+msgid "Allow Types"
+msgstr ""
+
+#: templates/dashboard/packages.php:44 templates/wc/plans.php:61
+msgid "Any listing types"
+msgstr ""
+
+#: templates/dashboard/profile.php:22
+msgid "First name"
+msgstr ""
+
+#: templates/dashboard/profile.php:28
+msgid "Last name"
+msgstr ""
+
+#: templates/dashboard/profile.php:34
+msgid "Display name"
+msgstr ""
+
+#: templates/dashboard/profile.php:41
+msgid "Email address"
+msgstr ""
+
+#: templates/dashboard/profile.php:48
+msgid "New pasword"
+msgstr ""
+
+#: templates/dashboard/profile.php:54
+msgid "Confirm new pasword"
+msgstr ""
+
+#: templates/dashboard/reviews.php:13
+msgid "Created At"
+msgstr ""
+
+#: templates/form/claim.php:5
+msgid "Claim This Listing"
+msgstr ""
+
+#: templates/form/claim.php:13 templates/form/enquiry.php:13
+#: templates/form/report.php:13
+msgid "Back to %s"
+msgstr ""
+
+#: templates/form/claim.php:33 templates/form/enquiry.php:32
+#: templates/form/review.php:22
+msgid "Your Name"
+msgstr ""
+
+#: templates/form/claim.php:42 templates/form/enquiry.php:41
+#: templates/form/review.php:31
+msgid "Your email"
+msgstr ""
+
+#: templates/form/claim.php:60 templates/form/enquiry.php:69
+msgid "Your message ?"
+msgstr ""
+
+#: templates/form/claim.php:74
+msgid "Claim Listing"
+msgstr ""
+
+#: templates/form/enquiry.php:5
+msgid "Send an Enquery"
+msgstr ""
+
+#: templates/form/enquiry.php:83
+msgid "Send message"
+msgstr ""
+
+#: templates/form/report.php:38
+msgid "What's wrong with this listing?"
+msgstr ""
+
+#: templates/form/report.php:49 templates/form/review.php:91
+msgid "Submit"
+msgstr ""
+
+#: templates/form/review.php:48
+msgid "Your rating"
+msgstr ""
+
+#: templates/form/review.php:53
+msgid "Please select a rating"
+msgstr ""
+
+#: templates/form/review.php:71
+msgid "Your review"
+msgstr ""
+
+#: templates/single/reviews.php:44
+msgid "Start your review of <a href=\"%1$s\"><strong>%2$s</strong></a>"
+msgstr ""
+
+#: templates/submit-listing/form.php:11
+msgid "New %s"
+msgstr ""
+
+#: templates/submit-listing/form.php:41
+#. translators: %1$s: Order id. %2$s: Order item id. %3$s: Product name. %4$s:
+#. Listing available
+msgid "#%1$s_%2$s %3$s (%4$s left)"
+msgstr ""
+
+#: templates/submit-listing/form.php:52
+msgid "Select package"
+msgstr ""
+
+#: templates/submit-listing/select-type.php:11
+msgid "You have not permission to edit this listing."
+msgstr ""
+
+#: templates/submit-listing/select-type.php:15
+msgid "Select listing type to continue..."
+msgstr ""
+
+#: templates/submit-listing/select-type.php:25
+msgid "Add"
+msgstr ""
+
+#: templates/wc/plans.php:24
+msgid "Any listing type"
+msgstr ""
+
+#: templates/wc/plans.php:31
+msgid "One days expiration"
+msgstr ""
+
+#: templates/wc/plans.php:35
+#. Translators: %1$s: The number of limit. %2$s: The post title.
+msgid "%1$s days expiration"
+msgid_plural "%1$s days expiration"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/wc/plans.php:42
+msgid "One listing submission"
+msgstr ""
+
+#: templates/wc/plans.php:46
+#. Translators: %1$s: The number of limit. %2$s: The post title.
+msgid "%1$s listing submission"
+msgid_plural "%1$s listing submissions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/wc/plans.php:66
+msgid "Auto verified"
+msgstr ""
+
+#: templates/wc/plans.php:69
+msgid "Auto approve"
+msgstr ""
+
+#: templates/wc/plans.php:72
+msgid "Usable for claiming"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ListPlus"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://listpluswp.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Build unlimited listing directory on your WordPress. Fast and Simple."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/listplus/"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:32
+#: admin/inc/class-enquires-list-table.php:32
+#: admin/inc/class-reports-list-table.php:32
+#: admin/inc/class-reviews-list-table.php:32
+msgctxt "Column label"
+msgid "Listing name"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:33
+#: admin/inc/class-enquires-list-table.php:33
+#: admin/inc/class-listing_type-table.php:33
+#: admin/inc/class-reports-list-table.php:33
+#: admin/inc/class-reviews-list-table.php:34
+msgctxt "Column label"
+msgid "Status"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:34
+msgctxt "Column label"
+msgid "Claimer"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:35
+msgctxt "Column label"
+msgid "Message"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:36
+#: admin/inc/class-enquires-list-table.php:36
+#: admin/inc/class-reports-list-table.php:36
+msgctxt "Column label"
+msgid "Submited on"
+msgstr ""
+
+#: admin/inc/class-enquires-list-table.php:34
+#: admin/inc/class-reports-list-table.php:34
+msgctxt "Column label"
+msgid "Submited by"
+msgstr ""
+
+#: admin/inc/class-enquires-list-table.php:35
+msgctxt "Column label"
+msgid "Content"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:29
+#: admin/inc/class-listing_type-table.php:30
+msgctxt "Column label"
+msgid "Name"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:30
+#: admin/inc/class-listing_type-table.php:32
+msgctxt "Column label"
+msgid "Slug"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:31
+#: admin/inc/class-listing_type-table.php:34
+msgctxt "Column label"
+msgid "Count"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:32
+#: admin/inc/class-listing_type-table.php:35
+msgctxt "Column label"
+msgid "Description"
+msgstr ""
+
+#: admin/inc/class-listing_type-table.php:31
+msgctxt "Column label"
+msgid "ID"
+msgstr ""
+
+#: admin/inc/class-reports-list-table.php:35
+msgctxt "Column label"
+msgid "Reason"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:33
+msgctxt "Column label"
+msgid "Rating"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:35
+msgctxt "Column label"
+msgid "By"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:36
+msgctxt "Column label"
+msgid "Review"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:37
+msgctxt "Column label"
+msgid "Created at"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:134
+#: admin/inc/class-enquires-list-table.php:120
+#: admin/inc/class-listing_type-table.php:124
+#: admin/inc/class-reports-list-table.php:116
+#: admin/inc/class-reviews-list-table.php:139
+msgctxt "List table row action"
+msgid "View"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:148
+#: admin/inc/class-enquires-list-table.php:134
+#: admin/inc/class-listing-table.php:96
+#: admin/inc/class-listing_type-table.php:115
+#: admin/inc/class-reports-list-table.php:130
+#: admin/inc/class-reviews-list-table.php:153
+msgctxt "List table row action"
+msgid "Delete"
+msgstr ""
+
+#: admin/inc/class-listing-table.php:83
+#: admin/inc/class-listing_type-table.php:100
+msgctxt "List table row action"
+msgid "Edit"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:166
+msgctxt "List table bulk action"
+msgid "Approved claims"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:167
+msgctxt "List table bulk action"
+msgid "Pending claims"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:168
+msgctxt "List table bulk action"
+msgid "Rejected claims"
+msgstr ""
+
+#: admin/inc/class-claim-entries-list-table.php:169
+#: admin/inc/class-enquires-list-table.php:159
+#: admin/inc/class-listing-table.php:111
+#: admin/inc/class-listing_type-table.php:139
+#: admin/inc/class-reports-list-table.php:155
+#: admin/inc/class-reviews-list-table.php:175
+msgctxt "List table bulk action"
+msgid "Delete"
+msgstr ""
+
+#: admin/inc/class-enquires-list-table.php:157
+#: admin/inc/class-reports-list-table.php:153
+msgctxt "List table bulk action"
+msgid "Mark as read"
+msgstr ""
+
+#: admin/inc/class-enquires-list-table.php:158
+#: admin/inc/class-reports-list-table.php:154
+msgctxt "List table bulk action"
+msgid "Mark as unread"
+msgstr ""
+
+#: admin/inc/class-listing_type-table.php:138
+msgctxt "List table bulk action"
+msgid "Duplicate"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:172
+msgctxt "List table bulk action"
+msgid "Approved reviews"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:173
+msgctxt "List table bulk action"
+msgid "Pending reviews"
+msgstr ""
+
+#: admin/inc/class-reviews-list-table.php:174
+msgctxt "List table bulk action"
+msgid "Rejected reviews"
+msgstr ""
+
+#: inc/class-filter.php:757
+#. translators: This is a comma-separated list of very common words that should
+#. be excluded from a search, like a, an, and the. These are usually called
+#. "stopwords". You should not simply translate these individual words into
+#. your language. Instead, look for and provide commonly accepted stopwords in
+#. your language.
+msgctxt "Comma-separated list of search stopwords in your language"
+msgid ""
+"about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,"
+"to,was,what,when,where,who,will,with,www"
+msgstr ""
+
+#: inc/class-listing-display.php:833
+#. translators: %s: post title
+msgctxt "review count"
+msgid "One review"
+msgstr ""
+
+#: inc/class-listing-display.php:837
+#. translators: 1: number of comments, 2: post title
+msgctxt "review count"
+msgid "%1$s review"
+msgid_plural "%1$s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-mailer__premium_only.php:14
+msgctxt "email body"
+msgid "From: [name] <[email]>"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:17
+msgctxt "email body"
+msgid "Message Body:"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:20
+msgctxt "email body"
+msgid "[body]"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:25
+msgctxt "email body"
+msgid "This e-mail was sent from ListPlus form on [site_name] ([site_url])"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:93 inc/class-mailer__premium_only.php:152
+#: inc/class-mailer__premium_only.php:203
+#: inc/class-mailer__premium_only.php:254
+msgctxt "email body"
+msgid "<strong>Name:</strong> %s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:97 inc/class-mailer__premium_only.php:156
+#: inc/class-mailer__premium_only.php:207
+#: inc/class-mailer__premium_only.php:258
+msgctxt "email body"
+msgid "<strong>Email:</strong> %s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:102
+msgctxt "email body"
+msgid "<strong>Subject:</strong> %s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:107
+#: inc/class-mailer__premium_only.php:159
+#: inc/class-mailer__premium_only.php:210
+#: inc/class-mailer__premium_only.php:269
+msgctxt "email body"
+msgid "<strong>Listing</strong>: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:110
+#: inc/class-mailer__premium_only.php:213
+#: inc/class-mailer__premium_only.php:272
+msgctxt "email body"
+msgid "<strong>Content</strong>: <br/> %s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:162
+msgctxt "email body"
+msgid "<strong>Reason</strong>: <br/> %s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:166
+msgctxt "email body"
+msgid "View report details"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:217
+msgctxt "email body"
+msgid "View claim details"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:262
+msgctxt "email body"
+msgid "<strong>Raing:</strong> %1$s/%2$s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:266
+msgctxt "email body"
+msgid "<strong>Summary:</strong> %s"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:276
+msgctxt "email body"
+msgid "View review details"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:59
+msgctxt "email subject"
+msgid "[site_name] New enquery message!"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:62
+msgctxt "email subject"
+msgid "[site_name] New report message!"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:65
+msgctxt "email subject"
+msgid "[site_name] New claim listing!"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:68
+msgctxt "email subject"
+msgid "[site_name] New review listing!"
+msgstr ""
+
+#: inc/class-mailer__premium_only.php:104
+msgctxt "no email subject"
+msgid "(No subject)"
+msgstr ""
+
+#: inc/class-permissions.php:72
+#. translators: user role
+msgctxt "User role"
+msgid "Listing manager"
+msgstr ""
+
+#: inc/class-post-types.php:355
+msgctxt "Post type general name"
+msgid "Listings"
+msgstr ""
+
+#: inc/class-post-types.php:356
+msgctxt "Post type singular name"
+msgid "Listing"
+msgstr ""
+
+#: inc/class-post-types.php:357
+msgctxt "Admin Menu text"
+msgid "Listings"
+msgstr ""
+
+#: inc/class-post-types.php:358
+msgctxt "Add New on Toolbar"
+msgid "Listing"
+msgstr ""
+
+#: inc/class-post-types.php:369
+msgctxt "Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Listing Cover Image"
+msgstr ""
+
+#: inc/class-post-types.php:370
+msgctxt "Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: inc/class-post-types.php:371
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in "
+"4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: inc/class-post-types.php:372
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in "
+"4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: inc/class-post-types.php:373
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Listing archives"
+msgstr ""
+
+#: inc/class-post-types.php:374
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into book"
+msgstr ""
+
+#: inc/class-post-types.php:375
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this book"
+msgstr ""
+
+#: inc/class-post-types.php:376
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter listings list"
+msgstr ""
+
+#: inc/class-post-types.php:377
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in "
+"4.4"
+msgid "Listings list navigation"
+msgstr ""
+
+#: inc/class-post-types.php:378
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Listings list"
+msgstr ""
+
+#: inc/class-taxonomies.php:452
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: inc/class-taxonomies.php:480
+msgctxt "taxonomy general name"
+msgid "Regions"
+msgstr ""
+
+#: inc/class-taxonomies.php:508
+msgctxt "taxonomy general name"
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/class-taxonomies.php:531
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr ""
+
+#: inc/class-taxonomies.php:453
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: inc/class-taxonomies.php:481
+msgctxt "taxonomy singular name"
+msgid "Region"
+msgstr ""
+
+#: inc/class-taxonomies.php:509
+msgctxt "taxonomy singular name"
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/class-taxonomies.php:532
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr ""
+
+#: templates/submit-listing/select-type.php:22
+msgctxt "purchase to submit this listing"
+msgid "Purchase"
+msgstr ""
